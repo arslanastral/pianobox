@@ -7,7 +7,7 @@ import * as Tone from "tone";
 const SampleLibrary = {
   minify: false,
   baseUrl:
-    "https://arslanastral.github.io/freeCodeCamp-Projects/03_Front-End-Development-Libraries/03_Drum-Machine/audio-samples/",
+    "https://arslanastral.github.io/pianobox/audio-samples/",
   list: [
     "bass-electric",
     "bassoon",
